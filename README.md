@@ -1,3 +1,5 @@
+![Cover Image Missing](https://github.com/simonjvardy/simonjvardy/blob/main/GitHub-name-3.png)
+
 ### Hi there 👋 I'm Simon ###
 
 
