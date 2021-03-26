@@ -1,4 +1,4 @@
-![Cover Image Missing](https://github.com/simonjvardy/simonjvardy/blob/main/GitHub-name-3.png)
+![Cover Image Missing](/assets/img/GitHub-name-1.png)
 
 ### Hi there 👋 I'm Simon ###
 
