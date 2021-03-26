@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Simon ###
 
 
-- 🔭 I’m currently working on [Code Institute Django project: Boutiqu Ado](https://github.com/simonjvardy/simonjvardy/boutique_ado/)
+- 🔭 I’m currently working on [Code Institute Django project: Boutique Ado](https://github.com/simonjvardy/boutique_ado_v1)
 - 🌱 I’m currently learning [Python](https://www.python.org/) & [Django Framework](https://www.djangoproject.com/)
 <!--
 - 👯 I’m looking to collaborate on ...
