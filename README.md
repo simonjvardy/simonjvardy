@@ -13,4 +13,12 @@
 -->
 
 
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonjvardy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonjvardy&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonjvardy&count_private=true&show_icons=true" />
+</a>
