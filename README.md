@@ -3,8 +3,11 @@
 ### Hi there 👋 I'm Simon ###
 
 
-- 🔭 I’m currently working on [Code Institute Milestone 4 project: Sportswear Online](https://github.com/simonjvardy/Sportswear-Online)
-- 🌱 I’m currently learning [Python](https://www.python.org/) & [Django Framework](https://www.djangoproject.com/)
+- 🔭 I’m currently working on creating [Hitachi Pentaho PDI E.T.L. Software](https://sourceforge.net/projects/pentaho/) data transformation scripts for Sybase ASE databases.
+- 🔭 I’ve just completed and submitted my [Code Institute Milestone 4 project: Sportswear Online](https://github.com/simonjvardy/Sportswear-Online)
+- 🌱 I’m currently learning:
+  - [Python](https://www.python.org/) & [Django Framework](https://www.djangoproject.com/)
+  - [Udemy Online course: The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
