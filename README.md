@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning:
   - [Python](https://www.python.org/) & [Django Framework](https://www.djangoproject.com/)
   - [Udemy Online course: The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+  - [Udemy Online Course: The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
