@@ -1,4 +1,4 @@
-![Cover Image Missing](https://github.com/simonjvardy/simonjvardy/blob/main/assets/img/GitHub-name.png)
+![Cover Image](https://github.com/simonjvardy/simonjvardy/blob/main/assets/img/GitHub-name.png)
 
 ### Hi there 👋 I'm Simon ###
 
@@ -25,9 +25,9 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonjvardy&count_private=true&show_icons=true" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonjvardy&count_private=true&show_icons=true&layout=compact" />
 </a> -->
