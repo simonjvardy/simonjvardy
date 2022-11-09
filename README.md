@@ -8,7 +8,7 @@
   - Creating [Hitachi Pentaho PDI E.T.L. Software](https://sourceforge.net/projects/pentaho/) data transformation scripts for Sybase ASE databases.
   - Developing SQL queries for data export to Power BI for business KPI reporting dashboards in Sybase ASE 16.
 - 🌱 I’m currently learning:
-  - Connecting [Python](https://www.python.org/) to [PostgreSQL databases](https://www.postgresql.org/) for CRUD functionality
+  - Currently completing [HackerRank](https://www.hackerrank.com/sjvardy) challenges in Python, SQL and 30 Days of Coding. 
   - [Udemy Online course: The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
   - [Talend Open Studio - Open Source ETL solution](https://www.talend.com/products/talend-open-studio/) for data transformation scripts for Sybase ASE databases.
   - [UiPath Academy](https://academy.uipath.com/) learning Robotic Process Automation (RPA)
