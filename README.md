@@ -48,6 +48,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![Transact SQL](https://img.shields.io/badge/Transact%20SQL%20-%230FAAFF.svg?&style=for-the-badge&logo=SAP&logoColor=FFFFFF)
 
 ### Frameworks | Libraries | APIs
 
@@ -76,6 +78,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![SAP Sybase ASE](https://img.shields.io/badge/Sybase%20-%230FAAFF.svg?&style=for-the-badge&logo=SAP&logoColor=FFFFFF)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
 
