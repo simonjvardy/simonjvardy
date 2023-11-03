@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning:
   - Currently completing [HackerRank](https://www.hackerrank.com/sjvardy) challenges in Python, SQL and 30 Days of Coding. 
   - [Udemy Online course: The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
-  - [Talend Open Studio - Open Source ETL solution](https://www.talend.com/products/talend-open-studio/) for data transformation scripts for Sybase ASE databases.
-  - [UiPath Academy](https://academy.uipath.com/) learning Robotic Process Automation (RPA)
+  - [Obsidian.md](https://obsidian.md/) to create a Personal Knowledge Management (PKM) workflow using Markdown syntax and file linking.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
