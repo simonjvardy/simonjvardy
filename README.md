@@ -23,15 +23,7 @@
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonjvardy&count_private=true&show_icons=true&layout=compact" />
-</a> -->
- 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonjvardy&" alt="simonjvardy"/>
-</p>
- 
+
 [![simon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonjvardy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=simonjvardy)](https://github.com/ryo-ma/github-profile-trophy)
