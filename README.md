@@ -78,7 +78,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/simonvardy/)
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
-### Documentation
+### Documentation | Project Tracking
 
 ![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 ![Confluence](https://img.shields.io/badge/Confluence%20-%23172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/Jira%20-%23172B4D.svg?&style=for-the-badge&logo=Jira&logoColor=FFFFFF)
